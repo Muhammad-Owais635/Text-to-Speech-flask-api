@@ -65,7 +65,6 @@ Text-to-Speech-flask-api/
 │   └── index.html
 ├── audio_files/
 │   └── *.wav
-├── static/
 ├── requirements.txt
 └── README.md
 ```
