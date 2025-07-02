@@ -59,7 +59,7 @@ http://localhost:5000
 ## 📁 Project Structure
 
 ```
-flask-tts-generator/
+Text-to-Speech-flask-api/
 ├── app.py
 ├── templates/
 │   └── index.html
